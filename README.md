@@ -1,4 +1,5 @@
 # Hey there! I'm Amir :raising_hand_man:
+![Javatpoint](https://github.com/DaRuDaTrOlLeR/DaRuDaTrOlLeR/blob/master/chess.jpeg)
 
 ### Who I Am
 Like most people, my coding story started with a single "Hello World" in high school, but there was something about executing my first successful program that felt like I had been doing this my whole life. Growing up as a competitive chess player, I havea always had a intrest in puizzles and strategy games. I spent countless hours  working through complex puzzles and coming up with strategic solutions to optimize my outcome. As I progressed in my coding journey, I realized that this mindset that has existed within me for years would shape my approach to solving complex technical problems.
